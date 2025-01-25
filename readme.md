@@ -47,6 +47,15 @@ A aplicação **Yu-Gi-Oh Jo-ken-po Edition** inclui:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Yu-Gi-Oh Jo-ken-po Edition 🎴](https://erikcesartavares.github.io/js-yugioh-assets/)
+
+
+---
+
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
