@@ -42,8 +42,7 @@ A aplicação **Yu-Gi-Oh Jo-ken-po Edition** inclui:
 3. **Sistema de Jogo** 🕹️:
    - Jogadores escolhem cartas para competir contra o computador.
    - Exibição de pontuação atualizada dinamicamente (vitórias e derrotas).
-4. **Design Responsivo** 📱:
-   - Compatível com diversos dispositivos, mantendo a experiência de jogo.
+4. **Design otimizado para desktop ** 💻.
 
 ---
 
